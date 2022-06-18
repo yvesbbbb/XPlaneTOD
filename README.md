@@ -1,9 +1,7 @@
 # XPlaneTOD
 
 Xplane 11 plugin to pause the aircraft 10NM before TOD according to the value 
-of the TOD calculated by the default FMS
-
-compile with Visual Studio Community 2017
+of the TOD calculated by the default FMS compile with Visual Studio Community 2017
 
 Derived from 
 https://developer.x-plane.com/code-sample/timedprocessing/
